@@ -1,8 +1,8 @@
-### Hi there, I'm Michael 😍👋
+### Hi there, I'm Michael Lee 😍👋
 
 - 🔭 I’m a **Software Engineer** who has strong experience in both **Mobile and Web** fields for over 10 years
 - 🌱 I’m currently learning **Python** related stuffs and **Machine learning**
-- 👯 I’m looking to collaborate more on open source projects built with to **React, Angular, NodeJs, React Native, Flutter** and it doesn't matter what the database concept is...
+- 👯 I’m looking to collaborate more on open-source projects built with **React, Angular, NodeJs, React Native, and Flutter** and it doesn't matter what the database concept is...
 - 🥰 Now I'm in a strong relationship with **React, Node, React Native**💻💖
 - 💻 There are plenty of of projects I've completed in **MERN stack** and **MEAN stack** in adition to the mobile application development in **React Native, Flutter, Swift and Kotlin**
 - 😎 You can check my repositories at my account
