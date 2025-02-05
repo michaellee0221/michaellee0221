@@ -11,7 +11,7 @@
 - 📫 You can contact me at michaellee0221@outlook.com
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikoladmt&show_icons=true&theme=algolia&line_height=30" />
+  <img src="https://github-readme-stats.vercel.app/api?username=michaellee0221&show_icons=true&theme=algolia&line_height=30" />
   <img width="32.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaellee0221&count_private=true&theme=algolia">
 </p>
 
